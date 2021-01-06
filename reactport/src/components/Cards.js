@@ -5,25 +5,25 @@ import './Cards.css';
 function Cards() {
     return (
         <div className='cards'>
-            <h1>One</h1>
+            <h1>Apps</h1>
             <div classname='cards__container'>
               <ul className='cards__items' >
                   <Carditem 
-                  src="img-1.png"
+                  src='images/img-1.png'
                   text="this is app 1"
-                  label='Application'
+                  label='Weather'
                   path='/services'
                   />
                   <Carditem 
-                  src="img-2.png"
+                  src='images/img-2.png'
                   text="this is app 2"
-                  label='Application'
+                  label='Password'
                   path='/services'
                   />
                   <Carditem 
-                  src="img-3.jpg"
+                  src='images/img-3.png'
                   text="this is app 3"
-                  label='Application'
+                  label='Hobby'
                   path='/services'
                   />
                   </ul> 
@@ -32,4 +32,4 @@ function Cards() {
     )
 }
 
-export default Cards
+export default Cards;
