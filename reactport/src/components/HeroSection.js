@@ -5,7 +5,7 @@ function HeroSection() {
     return (
         <div className='hero-container'> 
             <h1>Hello</h1>
-            <img src='/images/img-home.jpg' alt='paper background'/>
+             <img className='hero' src='/images/img-home.jpg' alt='paper background'/>
             
             
         </div>

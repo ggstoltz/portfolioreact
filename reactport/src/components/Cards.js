@@ -12,19 +12,19 @@ function Cards() {
                   src='images/img-1.png'
                   text="this is app 1"
                   label='Weather'
-                  path='/services'
+                  path='/Portfolio'
                   />
                   <Carditem 
                   src='images/img-2.png'
                   text="this is app 2"
                   label='Password'
-                  path='/services'
+                  path='/Portfolio'
                   />
                   <Carditem 
                   src='images/img-3.png'
                   text="this is app 3"
                   label='Hobby'
-                  path='/services'
+                  path='/Portfolio'
                   />
                   </ul> 
             </div>
