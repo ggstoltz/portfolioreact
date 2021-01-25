@@ -18,6 +18,10 @@ function CardItem(props) {
 
                 </div>
                 </Link>
+                <div className="ExtLink">
+                <button onclick="window.location.href='/https://github.com/ggstoltz'">GitHub</button>
+
+                </div>
             </li>
         </>
     );

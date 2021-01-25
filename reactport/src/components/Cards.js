@@ -10,20 +10,40 @@ function Cards() {
               <ul className='cards__items' >
                   <Carditem 
                   src='images/img-1.png'
-                  text="this is app 1"
+                  text="Forcast"
                   label='Weather'
                   path='/Portfolio'
+                  button="ExtLink"
                   />
                   <Carditem 
                   src='images/img-2.png'
-                  text="this is app 2"
+                  text="Secure Password Generator"
                   label='Password'
                   path='/Portfolio'
                   />
                   <Carditem 
                   src='images/img-3.png'
-                  text="this is app 3"
+                  text="Hobby tracker"
                   label='Hobby'
+                  path='/Portfolio'
+                  />
+                  <Carditem 
+                  src='images/img-4.png'
+                  text="Park Finder"
+                  label='Parks'
+                  path='/Portfolio'
+                  button="ExtLink"
+                  />
+                  <Carditem 
+                  src='images/img-5.png'
+                  text="Activity Tracker"
+                  label='Fitness'
+                  path='/Portfolio'
+                  />
+                  <Carditem 
+                  src='images/img-6.png'
+                  text="Knowledge Quiz"
+                  label='Quiz'
                   path='/Portfolio'
                   />
                   </ul> 
