@@ -1,15 +1,16 @@
 import React from 'react';
-// import './HeroSection.css';
+import './HeroSection.css';
 
 function HeroSection() {
     return (
-        <div className='hero-container'> 
+        <div className='hero-container'>
             <h1>Hello</h1>
-             <img className='hero' src='/images/img-home.jpg' alt='paper background'/>
-            
-            
+            <p>test</p>
+            <img className='hero' src='/images/img-home.jpg' alt='paper background' />
+
+
         </div>
-    )
+    );
 }
 
 export default HeroSection;
