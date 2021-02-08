@@ -9,39 +9,39 @@ function Cards() {
             <div classname='cards__container'>
               <ul className='cards__items' >
                   <Carditem 
-                  src="/images/img-1.png"
+                  src="/public/images/img-1.png"
                   text="Forcast"
                   label='Weather'
                   path='/Portfolio'
                   button="ExtLink"
                   />
                   <Carditem 
-                  src="/images/img-2.png"
+                  src="/public/images/img-2.png"
                   text="Secure Password Generator"
                   label='Password'
                   path='/Portfolio'
                   />
                   <Carditem 
-                  src='/images/img-3.png'
+                  src='/public/images/img-3.png'
                   text="Hobby tracker"
                   label='Hobby'
                   path='/Portfolio'
                   />
                   <Carditem 
-                  src='/images/img-4.png'
+                  src='/public/images/img-4.png'
                   text="Park Finder"
                   label='Parks'
                   path='/Portfolio'
                   button="ExtLink"
                   />
                   <Carditem 
-                  src='/images/img-5.png'
+                  src='/public/images/img-5.png'
                   text="Activity Tracker"
                   label='Fitness'
                   path='/Portfolio'
                   />
                   <Carditem 
-                  src='/images/img-6.png'
+                  src='/public/images/img-6.png'
                   text="Knowledge Quiz"
                   label='Quiz'
                   path='/Portfolio'

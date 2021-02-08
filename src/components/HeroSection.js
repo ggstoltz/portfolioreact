@@ -6,7 +6,7 @@ function HeroSection() {
         <div className='hero-container'>
             <h1>Hello</h1>
             <p></p>
-            <img className='hero' src='/images/img-home.jpg' alt='paper background' />
+            <img className='hero' src='/public/images/img-home.jpg' alt='paper background' />
 
 
         </div>
